@@ -8,8 +8,6 @@ Plans:
 - Graduate!! 🎓
 - AWS Developer Associate certification 👨‍💼
 
-Looking to reach out? 👋
-Email: me@daytonforehand.dev 📨
 
 <!---
 daytoncf/daytoncf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
